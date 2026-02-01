@@ -1,0 +1,7 @@
+/devops-profile
+│── index.html
+│── styles.css
+│── scripts.js
+│── project1.html
+│── project2.html
+│── project3.html
